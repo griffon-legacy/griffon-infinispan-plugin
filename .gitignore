@@ -1,0 +1,11 @@
+target
+release_notes.md
+target
+.idea
+ehcache-griffonPluginFixes.iml
+ehcache.iml
+target
+.idea
+out
+infinispan-griffonPluginFixes.iml
+infinispan.iml
